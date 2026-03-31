@@ -1,5 +1,5 @@
 # TrafficSimulation
-A GAML project to simulate human and autonomous drivers
+A GAML project to simulate human and autonomous drivers on a simple grid street network with traffic lights
 
 For a detailed explanation of all variables, please see Wiki
 
@@ -12,7 +12,7 @@ For a detailed explanation of all variables, please see Wiki
 
 ## Interactions
 
-![Interaction flow](./images/interaction.png)
+![Interaction flow](https://github.com/timmhopp/TrafficSimulation/images/interaction.png)
 
 ---
 
@@ -21,21 +21,21 @@ For a detailed explanation of all variables, please see Wiki
 ### Throughput
 
 - **Human-only:**  
-  ![Throughput human](./images/throughput-human.png)
+  ![Throughput human](https://github.com/timmhopp/TrafficSimulation/images/throughput-human.png)
 
 - **Autonomous-only:**  
-  ![Throughput autonomous](./images/throughput_auton.png)
+  ![Throughput autonomous](https://github.com/timmhopp/TrafficSimulation/images/throughput_auton.png)
 
 - **Mixed:**  
-  ![Throughput mixed](./images/throughput_mixed.png)
+  ![Throughput mixed](https://github.com/timmhopp/TrafficSimulation/images/throughput_mixed.png)
 
 ### Task time
 
 - **Human-only:**  
-  ![Time human](./images/time_human.png)
+  ![Time human](https://github.com/timmhopp/TrafficSimulation/images/time_human.png)
 
 - **Autonomous-only:**  
-  ![Time autonomous](./images/time_auton.png)
+  ![Time autonomous](https://github.com/timmhopp/TrafficSimulation/images/time_auton.png)
 
 - **Mixed:**  
-  ![Time mixed](./images/time_mixed.png)
+  ![Time mixed](https://github.com/timmhopp/TrafficSimulation/images/time_mixed.png)
